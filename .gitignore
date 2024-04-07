@@ -1,0 +1,6 @@
+lib
+node_modules
+.ides
+package-lock.json
+Dockerfile
+.dockergnore
